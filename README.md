@@ -1,3 +1,4 @@
+## Olá, bem-vindo ao meu github !!
 <div align="center">
   <a href="https://github.com/EriickSaraiva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EriickSaraiva&show_icons=true&theme=highcontrast&include_all_commits=fals&count_private=true"/>
